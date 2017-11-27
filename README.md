@@ -7,3 +7,7 @@ Open source Twitch chat bot with speech recognition features
 - Generate password
 - Open Program.cs and type your on twitch username and generated oauth password
 - RUN!
+
+# Credits
+- Mastersoftware - Microphone controller
+- Microsoft - .NET Framework
