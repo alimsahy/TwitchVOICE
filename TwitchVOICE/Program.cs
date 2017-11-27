@@ -153,7 +153,7 @@ namespace TwitchVOICE
                 {
                     irc.sendChatMessage("/subscribers");
                     Console.ForegroundColor = ConsoleColor.Green;
-                    Console.WriteLine("SUB MODE PASSIVE");
+                    Console.WriteLine("SUB MODE ACTIVE");
                     Console.ForegroundColor = ConsoleColor.White;
                     break;
                 }
@@ -161,7 +161,7 @@ namespace TwitchVOICE
                 {
                     irc.sendChatMessage("/subscribersoff");
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("SUB MODE ACTIVE");
+                    Console.WriteLine("SUB MODE PASSIVE");
                     Console.ForegroundColor = ConsoleColor.White;
                     break;
                 }
