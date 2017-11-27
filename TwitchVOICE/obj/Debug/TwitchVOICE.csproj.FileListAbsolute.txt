@@ -1,0 +1,12 @@
+c:\users\emreödev\source\repos\TwitchVOICE\TwitchVOICE\obj\Debug\TwitchVOICE.csproj.CoreCompileInputs.cache
+c:\users\emreödev\source\repos\TwitchVOICE\TwitchVOICE\bin\Debug\TwitchVOICE.exe.config
+c:\users\emreödev\source\repos\TwitchVOICE\TwitchVOICE\bin\Debug\TwitchVOICE.exe
+c:\users\emreödev\source\repos\TwitchVOICE\TwitchVOICE\bin\Debug\TwitchVOICE.pdb
+c:\users\emreödev\source\repos\TwitchVOICE\TwitchVOICE\bin\Debug\WindowsMicrophoneMuteLibrary.dll
+c:\users\emreödev\source\repos\TwitchVOICE\TwitchVOICE\bin\Debug\CoreAudioApi.dll
+c:\users\emreödev\source\repos\TwitchVOICE\TwitchVOICE\bin\Debug\MixerNativeLibrary.dll
+c:\users\emreödev\source\repos\TwitchVOICE\TwitchVOICE\bin\Debug\WindowsMicrophoneMuteLibrary.pdb
+c:\users\emreödev\source\repos\TwitchVOICE\TwitchVOICE\bin\Debug\CoreAudioApi.pdb
+c:\users\emreödev\source\repos\TwitchVOICE\TwitchVOICE\bin\Debug\MixerNativeLibrary.pdb
+c:\users\emreödev\source\repos\TwitchVOICE\TwitchVOICE\obj\Debug\TwitchVOICE.exe
+c:\users\emreödev\source\repos\TwitchVOICE\TwitchVOICE\obj\Debug\TwitchVOICE.pdb
