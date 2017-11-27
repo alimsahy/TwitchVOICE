@@ -118,7 +118,7 @@ namespace TwitchVOICE
                         if (message.Contains(word))
                         {
                             irc.sendChatMessage("/timeout " + username + " 1");
-                            irc.sendChatMessage("Bak güzel kardeşim ya güzel ağzını toplarsın yada.... @" + username);
+                            irc.sendChatMessage("Watch your words... @" + username);
                         }
                     }
                 }
